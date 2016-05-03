@@ -26,7 +26,7 @@ import cq.game.fivechess.R;
 public class GameView extends SurfaceView implements SurfaceHolder.Callback{
 
     private static final String TAG = "GameView";
-    private static final boolean DEBUG = true;
+    private static final boolean DEBUG = false;
     
     // 定义SurfaceHolder对象
     SurfaceHolder mHolder = null;

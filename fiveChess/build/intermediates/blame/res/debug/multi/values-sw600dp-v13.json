@@ -1,48 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 41,
-                    "endOffset": 92
-                },
-                "from": {
-                    "file": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 235,
-                        "endColumn": 41,
-                        "endOffset": 272
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 97,
-                    "endColumn": 40,
-                    "endOffset": 133
-                },
-                "from": {
-                    "file": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 193,
-                        "endColumn": 40,
-                        "endOffset": 229
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
