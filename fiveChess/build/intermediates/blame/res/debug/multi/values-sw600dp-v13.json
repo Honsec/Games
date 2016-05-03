@@ -41,5 +41,48 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 41,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 40,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 40,
+                        "endOffset": 230
+                    }
+                }
+            }
+        ]
     }
 ]

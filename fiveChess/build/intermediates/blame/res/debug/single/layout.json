@@ -1,11 +1,35 @@
 [
     {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\chat_edit.xml",
         "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\layout\\chat_edit.xml"
     },
     {
-        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\chat_edit.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\chat_edit.xml"
+    },
+    {
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\chat_item.xml"
+    },
+    {
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\game_net.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\game_net.xml"
+    },
+    {
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\game_fight.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\game_fight.xml"
     },
     {
         "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\chat_dialog.xml",
@@ -20,12 +44,24 @@
         "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\layout\\game_net.xml"
     },
     {
-        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\game_single.xml",
-        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\layout\\game_single.xml"
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\game_single.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\game_single.xml"
+    },
+    {
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\chat_dialog.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\chat_dialog.xml"
     },
     {
         "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect.xml",
         "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\layout\\activity_connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\game_single.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\layout\\game_single.xml"
+    },
+    {
+        "merged": "C:\\IDE\\android\\work\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect.xml",
+        "source": "C:\\IDE\\android\\work\\Games\\fiveChess\\src\\main\\res\\layout\\activity_connect.xml"
     },
     {
         "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\layout\\game_fight.xml",
