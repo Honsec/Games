@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\coin_icon.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\drawable-mdpi\\coin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sc_icon.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\drawable-mdpi\\sc_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dw_icon.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\drawable-mdpi\\dw_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sg_icon.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\drawable-mdpi\\sg_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\love_icon.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\drawable-mdpi\\love_icon.png"
+    }
+]

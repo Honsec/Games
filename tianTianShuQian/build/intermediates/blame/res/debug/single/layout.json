@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\build\\intermediates\\res\\merged\\debug\\layout\\menuactivity.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\src\\main\\res\\layout\\menuactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\build\\intermediates\\res\\merged\\debug\\layout\\gameview.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\src\\main\\res\\layout\\gameview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\build\\intermediates\\res\\merged\\debug\\layout\\welcomeactivity.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\tianTianShuQian\\src\\main\\res\\layout\\welcomeactivity.xml"
+    }
+]

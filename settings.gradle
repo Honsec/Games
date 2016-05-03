@@ -1,0 +1,6 @@
+include ':app', ':wuziqi'
+include ':demo_zhy_06_px_bird_game_blog'
+include ':fiveChess'
+include ':linkGame'
+include ':tianTianShuQian'
+include ':caiShuZi1'

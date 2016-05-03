@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\values-w720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 42,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\values-w720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 42,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 40,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\values-w720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 40,
+                        "endOffset": 303
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_press.9.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\btn_bg_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\status.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\status.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chessboard_bg.9.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\chessboard_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\black.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\black.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_disable.9.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\btn_bg_disable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focus.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\focus.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_new.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\white_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_active.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\white_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\black_large.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\black_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comm_btn_normal.9.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\comm_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\net.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\net.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comm_btn_diabale.9.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\comm_btn_diabale.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\white.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_noral.9.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\btn_bg_noral.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comm_btn_pressed.9.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\comm_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user1.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\black_active.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\black_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\black_new.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\black_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user2.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_large.png",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\fiveChess\\src\\main\\res\\drawable-hdpi\\white_large.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\layout\\game_list_cell.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\layout\\game_list_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\build\\intermediates\\res\\merged\\debug\\layout\\link_game_activity.xml",
+        "source": "C:\\Users\\Hongsec\\Desktop\\Games\\linkGame\\src\\main\\res\\layout\\link_game_activity.xml"
+    }
+]
